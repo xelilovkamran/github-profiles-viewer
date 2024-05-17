@@ -1,6 +1,10 @@
 # GitHub Finder App
 
-Welcome to the GitHub Finder Website! This platform allows you to search for GitHub users and view their profiles along with their repositories.
+![Home Page](./public/project-home.png)
+
+##
+
+Welcome to the GitHub Profile Viewer Website! This platform allows you to search for GitHub users and view their profiles along with their repositories.
 
 ## Features
 
