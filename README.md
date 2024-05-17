@@ -2,7 +2,7 @@
 
 ![Home Page](./public/project-home.png)
 
-##
+## Description
 
 Welcome to the GitHub Profile Viewer Website! This platform allows you to search for GitHub users and view their profiles along with their repositories.
 
