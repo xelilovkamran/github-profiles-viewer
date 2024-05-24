@@ -36,4 +36,4 @@ Welcome to the GitHub Profile Viewer Website! This platform allows you to search
 
 ## Demo
 
-Check out our live demo [here](https://appgithubffinder.vercel.app/) to see the website in action!
+Check out our live demo [here](https://profile-viewer-github.vercel.app/) to see the website in action!
