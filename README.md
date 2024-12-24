@@ -1,4 +1,4 @@
-# GitHub Finder App
+# GitHub Profile Viewer
 
 ![Home Page](./public/project-home.png)
 
